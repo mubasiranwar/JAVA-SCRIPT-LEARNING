@@ -1,5 +1,10 @@
-.class1{
+/* .class1{
 
     color: rgb(137, 137, 204);
-    font-family: Arial, sans-serif; 
+    font-family: Arial, sans-serif;
+} */
+div {
+    height: 200px;
+    color: #be2d2d;
+    background-color: aliceblue;
 }

@@ -24,3 +24,9 @@ function displayAlert() {
 // console.log(byQuery);
 // let byQueryAll=document.querySelectorAll(".class1");
 // console.log(byQueryAll);
+
+let para=document.querySelector(".class1");  
+console.log(para);
+
+let id=para.getAttribute("para");
+console.log(id)
